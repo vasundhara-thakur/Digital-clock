@@ -1,1 +1,1 @@
-## A digital clock project using basic HTML, CSS and Javascript
+### A digital clock project using basic HTML, CSS and Javascript
