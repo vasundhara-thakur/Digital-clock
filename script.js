@@ -13,5 +13,4 @@
 
 }
 
-clockUpdate();
 setInterval(clockUpdate, 1000);
